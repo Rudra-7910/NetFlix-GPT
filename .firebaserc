@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "netfllix-gpt-e9821",
+    "dist": "netfllix-gpt-e9821"
+  },
+  "targets": {},
+  "etags": {}
+}

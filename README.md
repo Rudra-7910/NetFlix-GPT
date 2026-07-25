@@ -1,0 +1,14 @@
+#Features 
+-login/signup 
+    -signup/login form 
+    - logged in , fir redirect to browse
+-Browse (only after authentication)
+    -header
+    -main movie
+        -trailer in background
+        -title  & description
+        -movie suggestion 
+            -movieLists * N 
+-NetflixGpt
+    -search bar 
+    - movie suggestions
